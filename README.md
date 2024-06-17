@@ -11,6 +11,7 @@ Run the project CodingChallenge
 This a RESTful API project for managing the blog contents and comments.
 
 The project currently contains -->
+
 Api for the creation of a blog post; POST /api/posts
 
 Api for commenting on a blog post; POST /api/posts{id}/comments
@@ -21,6 +22,7 @@ Api for retrieving a blog post with the commentaries; GET /api/posts{id}
 
 
 Subsequent steps -->
+
 Add a new field to flag a comment with spoilers ??;
 
 Add the user guid on both the comments and the blog posts;
